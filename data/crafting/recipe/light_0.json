@@ -11,7 +11,7 @@
         }
     },
     "result": {
-        "id": "minecraft:air",
+        "id": "minecraft:light[minecraft:block_state={level:"0"}]",
         "count": 1
     }
 }
