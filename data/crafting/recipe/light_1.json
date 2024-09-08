@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "0",
+        "#"
+    ],
+    "key": {
+        "0": {
+            "item": "minecraft:glass_bottle"
+        },
+        "#": {
+            "item": "minecraft:copper"
+        }
+    },
+    "result": {
+        "id": "minecraft:light[minecraft:block_state={level:"1"}]",
+        "count": 1
+    }
+}
